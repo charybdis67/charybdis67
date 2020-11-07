@@ -14,6 +14,7 @@ Talk to me about
 - Desktop application development using **React**
 - Mobile application development using **React Native and Android Studio**
 - Solving Data structure and algorithm questions in **Java and C++**
+- Creating System Operations with **C and Linux**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio]()
